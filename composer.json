@@ -2,6 +2,7 @@
     "name": "ajian/wxsdk",
     "description": "微信公众号接口sdk",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "ajian",
