@@ -6,6 +6,10 @@ namespace Ajian\Wxsdk\Api;
 
 use GuzzleHttp\Client;
 
+/**
+ * 获取JSSDK权限签名所需参数jsapi_ticket
+ * @package Ajian\Wxsdk\Api
+ */
 class GetTicket extends BaseApi
 {
     private $access_token;
